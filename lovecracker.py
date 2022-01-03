@@ -48,7 +48,7 @@ def jalan(z):
 		sys.stdout.flush()
 		time.sleep(0.01)
 
-#Dev:love_hacker
+#dev hama_cracker
 ##### LOGO #####
 logo = """
 \033[1;96m██████╗░██╗░░░░░░█████╗░░█████╗░██╗░░██╗
@@ -88,7 +88,7 @@ logo = """
 :    :¯¯¯:     :  `·´¯¯`·. :  :  .·´.·´_.·´`·.': :   `·.:  : 
 |`·._`·..·´   ¸.·|`·.·´¯`·.·´|`·.|·´_____.·.(·'_.|   '.·'_.| 
 `·.|.·´__.·´ .·´`·.|.·´`·.|·´`·.¸||______|/\||_'|/   |__|/ 
-   |___'|.·´    lovehacker BlackMafia     -«
+   |___'|.·´    lovecracker BlackMafia     -«
 \033[1;97m:•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬ •◈•\033[1;94mBlackMafia\033[1;97m•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•
 \033[1;96m:•◈•╔╗─────────╔╗───────╔╗
 \033[1;96m:•◈•║║─────────║║───────║║
@@ -99,14 +99,14 @@ logo = """
 \033[1;97m:•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬ •◈•\033[1;94mBlackMafia\033[1;97m•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬ •◈•"""
 
 def tik():
-	titik = ['.   ','..  ','... ']
-	for o in titik:
+	titok = ['.   ','..  ','... ']
+	for o in titok:
 		print("\r\x1b[1;93mPlease Wait \x1b[1;93m"+o),;sys.stdout.flush();time.sleep(1)
 
 
 back = 0
 berhasil = []
-cekpoint = []
+cheakpoint = []
 oks = []
 id = []
 listgrup = []
